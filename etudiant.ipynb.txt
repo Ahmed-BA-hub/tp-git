@@ -1,5 +1,5 @@
 def ajouter_etudiant(nom):
-    print(f"{nom} a été ajouté.")
+    print(f"L'étudiant {nom} a été ajouté avec succès.")
 
 def ajouter note(nom , note) :
    print(f"{nom} a le note de {note}.")
